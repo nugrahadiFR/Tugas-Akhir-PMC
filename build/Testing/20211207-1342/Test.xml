@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20211207-1342-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.0"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="NUGRAHADI"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19042)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="24241"
+	TotalPhysicalMemory="16229"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2592"
+	>
+	<Testing>
+		<StartDateTime>Dec 07 20:43 SE Asia Standard Time</StartDateTime>
+		<StartTestTime>1638884637</StartTestTime>
+		<TestList>
+			<Test>./test/TugasAkhir</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TugasAkhir</Name>
+			<Path>./test</Path>
+			<FullName>./test/TugasAkhir</FullName>
+			<FullCommandLine>"D:\Kuliah\PMC\Tugas Akhir\build\test\Debug\TugasAkhir.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0404766</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"D:\Kuliah\PMC\Tugas Akhir\build\test\Debug\TugasAkhir.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJydk01rg0AQhu/+ijnGQ5YYeir0UFpaSkhTxJ5ikFVXXaK7sh9p+u+7q0HEJmKcy86wz7w7L8v4mjHKcqgwZQsXMsEreH0MN7qkuAi/ti9hoHMs4flYUBHmnOclUUSqfipFEuY2i6wKShJn/9TFAfzLE94aLCTbRy4VSE3NiZz9sosDvJc8xmULEHaigrOKMAMTtdT1APZarlF900zSWnBJUi2iaIvPOI6iwNw7e/C/P6GJwwiHKpsbuo3dZgINixVU0p0zVtsKiitcus5khUAfsZhgrMchZfNRY//oe431BGYa22WZ+WQ16dcGLOrqUZM3u+41OxCaafiDJcEkt30Q0aYY9XmFv+IQIeQEBQFh5+MZKJM3s3Ktaq3gx+y+IBU/kRSkUSFAzUqeE0JS2cKFaS14mdpub7V+gPi3Weg/t2NwqQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Dec 07 20:43 SE Asia Standard Time</EndDateTime>
+		<EndTestTime>1638884637</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

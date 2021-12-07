@@ -1,0 +1,84 @@
+Start testing: Dec 07 20:43 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: TugasAkhir
+1/1 Test: TugasAkhir
+Command: "D:/Kuliah/PMC/Tugas Akhir/build/test/Debug/TugasAkhir.exe"
+Directory: D:/Kuliah/PMC/Tugas Akhir/build/test
+"TugasAkhir" start time: Dec 07 20:43 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:\Kuliah\PMC\Tugas Akhir\googletest\googletest\src\gtest_main.cc
+[==========] Running 12 tests from 12 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Funsiprosedur__Maxab__Test
+[ RUN      ] Funsiprosedur__Maxab__Test.maxab
+[       OK ] Funsiprosedur__Maxab__Test.maxab (0 ms)
+[----------] 1 test from Funsiprosedur__Maxab__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Tukar__Test
+[ RUN      ] Funsiprosedur__Tukar__Test.tukar
+[       OK ] Funsiprosedur__Tukar__Test.tukar (0 ms)
+[----------] 1 test from Funsiprosedur__Tukar__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Offsettab__Test
+[ RUN      ] Funsiprosedur__Offsettab__Test.Offsettab
+[       OK ] Funsiprosedur__Offsettab__Test.Offsettab (0 ms)
+[----------] 1 test from Funsiprosedur__Offsettab__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__IncTab__Test
+[ RUN      ] Funsiprosedur__IncTab__Test.incTab
+[       OK ] Funsiprosedur__IncTab__Test.incTab (0 ms)
+[----------] 1 test from Funsiprosedur__IncTab__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__ResetJam__Test
+[ RUN      ] Funsiprosedur__ResetJam__Test.ResetJam
+[       OK ] Funsiprosedur__ResetJam__Test.ResetJam (0 ms)
+[----------] 1 test from Funsiprosedur__ResetJam__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__JamToDetik__Test
+[ RUN      ] Funsiprosedur__JamToDetik__Test.JamToDetik
+[       OK ] Funsiprosedur__JamToDetik__Test.JamToDetik (0 ms)
+[----------] 1 test from Funsiprosedur__JamToDetik__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__DetikToJam__Test
+[ RUN      ] Funsiprosedur__DetikToJam__Test.DetikToJam
+[       OK ] Funsiprosedur__DetikToJam__Test.DetikToJam (0 ms)
+[----------] 1 test from Funsiprosedur__DetikToJam__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Succ__Test
+[ RUN      ] Funsiprosedur__Succ__Test.succ
+[       OK ] Funsiprosedur__Succ__Test.succ (0 ms)
+[----------] 1 test from Funsiprosedur__Succ__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Pred__Test
+[ RUN      ] Funsiprosedur__Pred__Test.pred
+[       OK ] Funsiprosedur__Pred__Test.pred (0 ms)
+[----------] 1 test from Funsiprosedur__Pred__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Geser__Test
+[ RUN      ] Funsiprosedur__Geser__Test.geser
+[       OK ] Funsiprosedur__Geser__Test.geser (0 ms)
+[----------] 1 test from Funsiprosedur__Geser__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Pros1__Test
+[ RUN      ] Funsiprosedur__Pros1__Test.Pros1
+[       OK ] Funsiprosedur__Pros1__Test.Pros1 (0 ms)
+[----------] 1 test from Funsiprosedur__Pros1__Test (0 ms total)
+
+[----------] 1 test from Funsiprosedur__Fungsi1__Test
+[ RUN      ] Funsiprosedur__Fungsi1__Test.fungsi1
+[       OK ] Funsiprosedur__Fungsi1__Test.fungsi1 (0 ms)
+[----------] 1 test from Funsiprosedur__Fungsi1__Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 12 tests from 12 test suites ran. (1 ms total)
+[  PASSED  ] 12 tests.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TugasAkhir" end time: Dec 07 20:43 SE Asia Standard Time
+"TugasAkhir" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 07 20:43 SE Asia Standard Time
